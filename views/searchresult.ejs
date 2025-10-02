@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="icon" href="data:;base64,=">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <link rel="stylesheet" href="/styo.css">
+  <link rel="stylesheet" href="/cardo.css">
+  <title><%= data.Aname.Name %></title>
+</head>
+<body>
+  <div class="container">
+    <div class="user-profile animated bounceInLeft" id="html-content-holder">
+      
+					<!-- Top Section -->
+					<div class="profile-top">
+						<div class="logo-row">
+						<img class="lip" src="/btnn.jpg" alt="">
+						</div>
+						<div class="school-logo">
+						<img src="/opo.png" alt="school logo">
+						</div>
+					
+
+					<!-- Photo -->
+					<div class="profile-photo">
+						<div class="photo-box">
+						<img src="<%= data.imgurli %>" alt="profile photo">
+						</div>
+					</div>
+					<a style="text-decoration: none;" href="/search/<%=data._id%>"">
+									<svg class="checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
+										<circle class="checkmark__circle" cx="26" cy="26" r="25" fill="none"/>
+										<path class="checkmark__check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/>
+									</svg>
+								</a>
+				
+					<!-- Info -->
+					<div class="profile-info">
+						<h1><%= data.Aname.Name %></h1>
+						<h2><%= data.Aname.Mname %> <%= data.Aname.Surname %></h2>
+						<p class="mode">MODE OF STUDY: REGULAR</p>
+					</div>
+					</div>
+      <!-- Details -->
+      <div class="details" >
+       
+							<div class="profile-info" style="justify-self: center;width: 110%;background-color: transparent;"> 
+								<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
+									<h1 style="font-size:15px;text-align:center;color: rgb(56, 33, 33);">REG NO</h1>
+									<div class="profile-info" style="justify-self: center;width: 95%;text-align: center;margin: 5px 0px;background-color: white;margin-top: -5px;">   
+											<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;">-<%= data.RegNo%>-</h1>
+									</div>
+								</div> 
+							</div>
+							<div class="profile-info" style="justify-self: center;width: 110%;background-color: transparent;"> 
+								<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
+									<h1 style="font-size:15px;text-align:center;color: black;">VALIDITY</h1>
+									<div class="profile-info" style="justify-self: center;width: 95%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;">   
+											<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Validity%></h1>
+									</div>
+								</div> 
+							</div>
+						
+							<div class="detail-row">
+								<div class="profile-info" style="justify-self: center;width: 110%;background-color: transparent;"> 
+									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
+										<h1 style="font-size:15px;text-align:center;color: black;">B/G</h1>
+										<div class="profile-info" style="justify-self: center;width: 90%;text-align: center;margin: 5px 0px;background-color: white;margin-top: -5px; ">   
+												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Bloodgroup%></h1>
+										</div>
+									</div> 
+								</div>
+								<div class="profile-info" style="justify-self: center;width: 110%;background-color: transparent;"> 
+									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
+										<h1 style="font-size:15px;text-align:center;color: black;">STATUS</h1>
+										<div class="profile-info" style="justify-self: center;width: 95%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;padding: 0px 7px;">   
+												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;">STUDENT</h1>
+										</div>
+									</div> 
+								</div>
+								<div class="profile-info" style="justify-self: center;width: 110%;background-color: transparent;"> 
+									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
+										<h1 style="font-size:15px;text-align:center;color: black;">GENDER</h1>
+										<div class="profile-info" style="justify-self: center;width: 90%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;">   
+												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Sex%></h1>
+										</div>
+									</div> 
+								</div>
+							</div>
+							
+									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
+										<h1 style="font-size:15px;text-align:center;color: black;">LGA / STATE OF ORIGIN</h1>
+										<div class="profile-info" style="justify-self: center;width: 95%;text-align: center;margin: 0px 0px;background-color: white;display: block;margin-top: -5px;">   
+												<h1 style="margin-top:-1.5px;font-weight: bolder;margin:-5px;color:red;font-size:15px;font-weight: bolder;border: none;text-align: center;"><%= data.LocalGovt%></h1>
+												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;margin-top: -12px;"><%= data.State%></h1>
+										</div>
+									</div>								
+								</div>
+                           
+							<ul class="icons-wrapper">
+  <li>
+    <img class="dropDown" src="./facebook.jpg" data-target="fb">
+  </li>
+  <li>
+    <img class="dropDown" src="./instagrame.jpg" data-target="ig">
+  </li>
+  <li>
+    <img class="dropDown" src="./tiktok.jpg" data-target="tt">
+  </li>
+  <li>
+    <img class="dropDown" src="./twitter.jpg" data-target="tw">
+  </li>
+
+  <!-- shared dropdown under the row -->
+  <ul id="dropdown" class="dropdown">
+    <li id="fb" style="background:rgb(28, 88, 158); display:none;">
+      facebook: <%=data.Facebook%>
+    </li>
+    <li id="ig" style="background:red; display:none;">
+      instagram: <%=data.Instagram%>
+    </li>
+    <li id="tt" style="background:#313131; display:none;">
+      tiktok: <%=data.Tiktok%>
+    </li>
+    <li id="tw" style="background:rgb(28, 88, 158); display:none;">
+      twitter: <%=data.Twitter%>
+    </li>
+  </ul>
+</ul>
+							  <br>
+							  <br>
+							  
+			
+        
+      </div>
+	
+    </div>
+  </div>
+  	<script>
+    const dropdown = document.getElementById("dropdown")
+const items = dropdown.querySelectorAll("li")
+let opened = null
+
+document.addEventListener("click", e => {
+  if (e.target.classList.contains("dropDown")) {
+    const target = e.target.dataset.target
+
+    // hide all
+    items.forEach(item => (item.style.display = "none"))
+
+    // show only clicked
+    const showItem = document.getElementById(target)
+    showItem.style.display = "inline-block"
+
+    dropdown.classList.add("show")
+    opened = true
+  } else {
+    if (opened) {
+      dropdown.classList.remove("show")
+      opened = null
+    }
+  }
+})
+
+</script>
+</body>
+</html>

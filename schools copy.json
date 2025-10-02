@@ -1,0 +1,994 @@
+
+  [
+    {
+    
+    "_id": "65697cac3e529a59a1e860e4",
+    "Aname": {
+      "Name": "FAVOUR OGECHI OPARA",
+    "Mname": "OGECHI",
+    "Surname": "OPARA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1252",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "MBAITOLI",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/53.jpg",
+    "id": "60ba682b-a81c-4d4f-90f8-5f0c39e80ef8",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65697d0f3e529a59a1e860e6",
+    "Aname": {
+      "Name": "GIFT MMESOMA NWACHUKWU",
+    "Mname": "MMESOMA",
+    "Surname": "NWACHUKWU"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0735",
+    "Status": "MEMBER",
+    "Bloodgroup": "B+",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "ABOH MBAISE",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/52.jpg",
+    "id": "9d516495-bec6-4a26-a884-4f4e60b2d839",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65697d623e529a59a1e860e8",
+    "Aname": {
+      "Name": "MIRIAN IFEOMA ONYEKWERE",
+    "Mname": "IFEOMA",
+    "Surname": "ONYEKWERE"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0798",
+    "Status": "MEMBER",
+    "Bloodgroup": "A",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "AHIAZU MBAISE",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/51.jpg",
+    "id": "278a0cd8-ccbe-4c6b-83db-17440032d285",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65697db93e529a59a1e860ea",
+    "Aname": {
+      "Name": "CHINAZA ESTHER UGONNA",
+    "Mname": "ESTHER",
+    "Surname": "UGONNA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "FEMALE",
+    "LocalGovt": "ORLU",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/50.jpg",
+    "id": "970732d3-1be0-4016-bdd1-99529b810ae6",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65697e173e529a59a1e860ec",
+    "Aname": {
+      "Name": "BLESSING UGOCHI EKWE",
+    "Mname": "UGOCHI",
+    "Surname": "EKWE"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0667",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "OWERRI NORTH",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/49.jpg",
+    "id": "44e84b04-5889-46ed-a27b-d0bea41c0e1e",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65697e663e529a59a1e860ee",
+    "Aname": {
+      "Name": "PROSPER UDOKAMMA UDOCHUKWU",
+    "Mname": "UDOKAMMA",
+    "Surname": "UDOCHUKWU"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1268",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "MALE",
+    "LocalGovt": "EZINIHITTE MBAISE",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/114.jpg",
+    "id": "6157d6ac-d941-468d-9fea-6db3eca05c14",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65697ed83e529a59a1e860f0",
+    "Aname": {
+      "Name": "BELINDA ",
+    "Mname": "AKACHI",
+    "Surname": "OBASI"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "A+",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "FEMALE",
+    "LocalGovt": "ABOH MBAISE",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/113.jpg",
+    "id": "e9bac511-fd68-4a8d-9fcf-7b7050da8d73",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656981b452f81959d4512e6c",
+    "Aname": {
+      "Name": "AMARACHI WINNER NWAKAMMA",
+    "Mname": "WINNER",
+    "Surname": "NWAKAMMA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "-",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "FEMALE",
+    "LocalGovt": "OGBAM",
+    "State": "-",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/105.jpg",
+    "id": "4e6e1b60-628c-4808-9d6d-28ead35e64ff",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569814652f81959d4512e69",
+    "Aname": {
+      "Name": "FAVOUR CHIOMA NWACHUKWU",
+    "Mname": "CHIOMA",
+    "Surname": "NWACHUKWU"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "MALE",
+    "LocalGovt": "ISIALA MBANO",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/106.jpg",
+    "id": "12cb8d38-de80-49af-8896-5ce57e101511",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569825f52f81959d4512e6e",
+    "Aname": {
+      "Name": "EVANS IKECHUKWU OBI",
+    "Mname": "IKECHUKWU",
+    "Surname": "OBI"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1220",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "MALE",
+    "LocalGovt": "EHIME MBANO",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/104.jpg",
+    "id": "88f2a61c-d866-478d-9284-2ef8e28dc2b4",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656982ab52f81959d4512e70",
+    "Aname": {
+      "Name": "CHIOMA VIVIAN ONYEAGHALA",
+    "Mname": "VIVIAN",
+    "Surname": "ONYEAGHALA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1248",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2023-2027",
+    "Sex": "FEMALE",
+    "LocalGovt": "IKEDURU",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/103.jpg",
+    "id": "d5daf82b-e7a9-4f37-ba0b-ea142f3e438e",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569833b52f81959d4512e72",
+    "Aname": {
+      "Name": "MMESOMA JENNIFER OBODOZIE",
+    "Mname": "JENNIFER",
+    "Surname": "OBODOZIE"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/0823",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "ORU WEST",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/102.jpg",
+    "id": "8c27e62f-6ecc-4a7c-b5fb-9bb4d580d228",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656983bc52f81959d4512e74",
+    "Aname": {
+      "Name": "DAVID CHIBUEZE OJINNAKA",
+    "Mname": "CHIBUEZE",
+    "Surname": "OJINNAKA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0773",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "MALE",
+    "LocalGovt": "-",
+    "State": "-",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/101.jpg",
+    "id": "8acae236-fe34-46a9-86fd-dd0cca54944e",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569841252f81959d4512e76",
+    "Aname": {
+      "Name": "CHINAZA MIRACLE OLISA",
+    "Mname": "MIRACLE",
+    "Surname": "OLISA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1242",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "ORLU",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/112.jpg",
+    "id": "bc249264-5546-4444-b94a-5a7ab9b51335",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569846852f81959d4512e78",
+    "Aname": {
+      "Name": "OGECHI GENEVIEVE ONYEAGHALA",
+    "Mname": "GENEVIEVE",
+    "Surname": "ONYEAGHALA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0791",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "OGUTA",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/111.jpg",
+    "id": "807c4a22-fb0c-48a8-b45c-c4b445c022e7",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656984b352f81959d4512e7a",
+    "Aname": {
+      "Name": "OGECHI SYLVIA IBE",
+    "Mname": "SYLVIA",
+    "Surname": "IBE"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "A+",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "FEMALE",
+    "LocalGovt": "OWERRI NORTH",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/110.jpg",
+    "id": "3d0c35a2-fe54-4aba-9450-3ff9569fa36f",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569851652f81959d4512e7c",
+    "Aname": {
+      "Name": "CHINYERE BLESSING SAMUEL",
+    "Mname": "BLESSING",
+    "Surname": "SAMUEL"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0811",
+    "Status": "MEMBER",
+    "Bloodgroup": "A",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "AHIAZU MBAISE",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/109.jpg",
+    "id": "c84611a9-5945-48b9-9140-7953b5b76693",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569857f52f81959d4512e7e",
+    "Aname": {
+      "Name": "SUCCESS CHIZOROM IKENNA",
+    "Mname": "CHIZOROM",
+    "Surname": "IKENNA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0697",
+    "Status": "MEMBER",
+    "Bloodgroup": "-",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "NWANGELE",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/108.jpg",
+    "id": "ae0da7c8-7a6e-4fbd-af99-7101b4c6e4d0",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698b48695738a2a1bb724f",
+    "Aname": {
+      "Name": "VICTORY CHINAZA OKEKE",
+    "Mname": "CHINAZA",
+    "Surname": "OKEKE"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/25365",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "MALE",
+    "LocalGovt": "IDEATE NORTH",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/99.jpg",
+    "id": "cd1f56c6-cd70-44d0-b456-af5ce42f259d",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698adb695738a2a1bb724c",
+    "Aname": {
+      "Name": "CHIDINMA MARVIS SILAS",
+    "Mname": "MARVIS",
+    "Surname": "SILAS"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0814",
+    "Status": "MEMBER",
+    "Bloodgroup": "A",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "NGOR OKPALA",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/100.jpg",
+    "id": "11ca5f6b-9036-4579-b75c-48f4119662c7",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698b9a695738a2a1bb7251",
+    "Aname": {
+      "Name": "DESTINY SOMTOCHUKWU CHIBUZO",
+    "Mname": "SOMTOCHUKWU",
+    "Surname": "CHIBUZO"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "FEMALE",
+    "LocalGovt": "MBAITOLI",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/98.jpg",
+    "id": "7367569c-8d6a-45a4-88d1-37348cf54ef6",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698bf9695738a2a1bb7253",
+    "Aname": {
+      "Name": "MIRACLE CHINAECHEREM ODINAKA",
+    "Mname": "CHINAECHEREM",
+    "Surname": "ODINAKA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1222",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "ORSU",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/97.jpg",
+    "id": "65131658-a82a-4322-935d-5ea6905a47a5",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698c59695738a2a1bb7255",
+    "Aname": {
+      "Name": "MARYANN NGOZICHUKWU UZOMA",
+    "Mname": "NGOZICHUKWU",
+    "Surname": "UZOMA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "FEMALE",
+    "LocalGovt": "OWERRI WEST",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/96.jpg",
+    "id": "40e2ee61-de26-4be4-bdff-24d618e0f82c",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698e1b69a81ecd98466d83",
+    "Aname": {
+      "Name": "ANTHONY EMEKA OZURUMBA",
+    "Mname": "EMEKA",
+    "Surname": "OZURUMBA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1259",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "MALE",
+    "LocalGovt": "NWANGELE",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/94.jpg",
+    "id": "57f651d6-336f-4bf2-aa4e-3668d97d8cbd",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698dbe69a81ecd98466d80",
+    "Aname": {
+      "Name": "ADAUGO JESSICA AHUMIBE",
+    "Mname": "JESSICA",
+    "Surname": ""
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1104",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "MBANO",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/95.jpg",
+    "id": "1138f7b7-45a9-4bb0-9a68-cbc81cffc45b",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698e8269a81ecd98466d85",
+    "Aname": {
+      "Name": "ANITA IFEYINWA ONWUHA",
+    "Mname": "IFEYINWA",
+    "Surname": "ONWUHA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0789",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "OHAJI EGBEMA",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/48.jpg",
+    "id": "5adf957f-83be-4589-90e2-ad15391405b0",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698edf69a81ecd98466d87",
+    "Aname": {
+      "Name": "PASCHAL CHIKAMSO OGBONNA",
+    "Mname": "CHIKAMSO",
+    "Surname": "OGBONNA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1226",
+    "Status": "MEMBER",
+    "Bloodgroup": "A",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "MALE",
+    "LocalGovt": "ISU",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/47.jpg",
+    "id": "266e3669-a30c-4aa7-a5ba-7910f9332bb9",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698f4869a81ecd98466d89",
+    "Aname": {
+      "Name": "JESSICA ONYINYECHI OKAFOR",
+    "Mname": "ONYINYECHI",
+    "Surname": "OKAFOR"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0774",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "ORLU",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/46.jpg",
+    "id": "1274d740-0fe0-4a0c-befd-c2c41d630014",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65698fb769a81ecd98466d8b",
+    "Aname": {
+      "Name": "CHISOM CHRISTIANA ANUNUGWO",
+    "Mname": "CHRISTIANA",
+    "Surname": "ANUNUGWO"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1116",
+    "Status": "MEMBER",
+    "Bloodgroup": "AB+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "ISIALA MBANO",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/45.jpg",
+    "id": "2bc143c8-27db-48c3-a698-0433a73618cb",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569909c69a81ecd98466d8d",
+    "Aname": {
+      "Name": "CONCEPTA EBUBECHUKWU OBILO",
+    "Mname": "EBUBECHUKWU",
+    "Surname": "OBILO"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0758",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "NJABA",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/44.jpg",
+    "id": "1ac52322-3719-49fa-9674-51481c356484",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656990fc69a81ecd98466d8f",
+    "Aname": {
+      "Name": "PRECIOUS NNEAMAKA ONYEKWERE",
+    "Mname": "NNEAMAKA",
+    "Surname": "ONYEKWERE"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0799",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "OWERRI NORTH",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/43.jpg",
+    "id": "e9a6a11b-565a-48d0-8c13-955b325cb296",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569916769a81ecd98466d91",
+    "Aname": {
+      "Name": "IHUOMA GODFAVOUR FERDINAND",
+    "Mname": "GODFAVOUR",
+    "Surname": "FERDINAND"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1170",
+    "Status": "MEMBER",
+    "Bloodgroup": "A",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "OWERRI WEST",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/42.jpg",
+    "id": "ad4713f6-41c1-43d7-be5d-433209771176",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656991ac69a81ecd98466d93",
+    "Aname": {
+      "Name": "PROGRESS OSINACHI AHAMS",
+    "Mname": "OSINACHI",
+    "Surname": "AHAMS"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "A",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "MALE",
+    "LocalGovt": "EZINIHITTE MBAISE",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/41.jpg",
+    "id": "9581009e-9f30-4164-a0fa-af5bf74402a9",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569927b69a81ecd98466d95",
+    "Aname": {
+      "Name": "CHIAMAKA HOPE ONUACHU",
+    "Mname": "HOPE",
+    "Surname": "ONUACHU"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1244",
+    "Status": "MEMBER",
+    "Bloodgroup": "A",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "-",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/40.jpg",
+    "id": "53458c42-5979-4eb8-8088-b5bdf3bfd68f",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656992e769a81ecd98466d97",
+    "Aname": {
+      "Name": "CHIAMAKA DIVINE OKOLIE",
+    "Mname": "DIVINE",
+    "Surname": "OKOLIE"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1236",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "ORU WEST",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/39.jpg",
+    "id": "23d6529f-b463-4cd5-be50-01e842a7ef90",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569933569a81ecd98466d99",
+    "Aname": {
+      "Name": "EMMANUEL EKENEDIRICHUKWU IHEBEREME",
+    "Mname": "EKENEDIRICHUKWU",
+    "Surname": "IHEBEREME"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1179",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "MALE",
+    "LocalGovt": "AHIAZU MBAISE",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/124.jpg",
+    "id": "c5e35242-cff0-47db-981f-0b3093df1813",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569938869a81ecd98466d9b",
+    "Aname": {
+      "Name": "CHIOMA ANNASTECIA OSUJI",
+    "Mname": "ANNASTECIA",
+    "Surname": "OSUJI"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1257",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "NGOR OKPALA",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/123.jpg",
+    "id": "249bb015-31ca-4302-94ae-bb9b3473d3ff",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656993e669a81ecd98466d9d",
+    "Aname": {
+      "Name": "PRECIOUS OGECHUKWU ODOEMENAH",
+    "Mname": "OGECHUKWU",
+    "Surname": "ODOEMENAH"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1223",
+    "Status": "MEMBER",
+    "Bloodgroup": "-",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "ISIALA MBANO",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/119.jpg",
+    "id": "4ca08333-cff4-44be-b7e5-0935f6fb93f9",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569947a69a81ecd98466d9f",
+    "Aname": {
+      "Name": "MIRIAN CHIEMENA EZEJI",
+    "Mname": "CHIEMENA",
+    "Surname": "EZEJI"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1166",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "IKEDURU",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/118.jpg",
+    "id": "6244b894-9e31-4b2a-aa49-f844c1f29bbf",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656994d069a81ecd98466da1",
+    "Aname": {
+      "Name": "MARYJANE OBIANUJU NWAIGWE",
+    "Mname": "OBIANUJU",
+    "Surname": "NWAIGWE"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1213",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "IKEDURU",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/117.jpg",
+    "id": "e4e2dec6-5533-470b-8599-ba54c1f496ad",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569952269a81ecd98466da3",
+    "Aname": {
+      "Name": "OBIAGERI EMMANUELLA AHANONU",
+    "Mname": "EMMANUELLA",
+    "Surname": "AHANONU"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "B+",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "FEMALE",
+    "LocalGovt": "MBAITOLI",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/116.jpg",
+    "id": "2621d203-9185-40fd-a2cb-49b9da4d467f",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569958469a81ecd98466da5",
+    "Aname": {
+      "Name": "ANGEL IFUNANYACHUKWU EKEH",
+    "Mname": "IFUNANYACHUKWU",
+    "Surname": "EKEH"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1156",
+    "Status": "MEMBER",
+    "Bloodgroup": "A+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "FEMALE",
+    "LocalGovt": "MBAITOLI",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/121.jpg",
+    "id": "2504cec1-de20-4ed3-8485-0968deab0be7",
+    "__v": 0
+  },
+  {
+    
+    "_id": "656995db69a81ecd98466da7",
+    "Aname": {
+      "Name": "MARYCYNTHIA CHINEMEREM AGBA",
+    "Mname": "CHINEMEREM",
+    "Surname": "AGBA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "21/0615",
+    "Status": "MEMBER",
+    "Bloodgroup": "O+",
+    "YearofAdmin": "2021",
+    "Validity": "2021-2025",
+    "Sex": "FEMALE",
+    "LocalGovt": "IDEATE NORTH",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/120.jpg",
+    "id": "8950d372-a409-4803-bd13-11895211d712",
+    "__v": 0
+  },
+  {
+    
+    "_id": "6569965369a81ecd98466da9",
+    "Aname": {
+      "Name": "UCHECHUKWU CHRISOGONUS OKWARA",
+    "Mname": "CHRISOGONUS",
+    "Surname": "OKWARA"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "22/1239",
+    "Status": "MEMBER",
+    "Bloodgroup": "A+",
+    "YearofAdmin": "2022",
+    "Validity": "2022-2026",
+    "Sex": "MALE",
+    "LocalGovt": "IDEATE SOUTH",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/122.jpg",
+    "id": "7b5b54c2-788f-4f10-90dc-879238034fbb",
+    "__v": 0
+  },
+  {
+    
+    "_id": "65699a52030014fa214631a7",
+    "Aname": {
+      "Name": "FAVOUR EBERECHUKWU AHAOTU",
+    "Mname": "EBERECHUKWU",
+    "Surname": "AHAOTU"
+    },
+    "School": "IMO STATE UNIVERSITY",
+    "Dept": "MICROBIOLOGY",
+    "RegNo": "-",
+    "Status": "MEMBER",
+    "Bloodgroup": "O-",
+    "YearofAdmin": "2023",
+    "Validity": "2023-2027",
+    "Sex": "FEMALE",
+    "LocalGovt": "ISIALA MBANO",
+    "State": "IMO",
+    "imgurli": "https://benjjamin22.github.io/filter/css/nams/142.jpg",
+    "id": "41c5073e-e69f-4142-8213-6ab0a92af6ef",
+    "__v": 0
+  }
+  
+]
