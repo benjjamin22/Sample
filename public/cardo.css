@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+condensed');
+ @import url('https://fonts.googleapis.com/css?family=Roboto+condensed');
 html, body {
     font-family: 'Segoe UI', sans-serif;
   margin: 0;
@@ -63,7 +63,7 @@ html, body {
   display: flex;
   justify-content: center;
   gap: 1rem;
-  margin-bottom: 15px;
+  margin-bottom: 0px;
 }
 
 .lip {
@@ -75,6 +75,7 @@ html, body {
 .school-logo img {
   max-width: 80%;
   height: auto;
+  margin-bottom: -10px;
 }
 
 .profile-photo {
