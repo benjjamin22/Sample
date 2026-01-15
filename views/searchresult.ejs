@@ -7,7 +7,7 @@
   <link rel="icon" href="data:;base64,=">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-  <link rel="stylesheet" href="/styo.css">
+  <link rel="stylesheet" href="styo.css">
   <link rel="stylesheet" href="/cardo.css">
   <title><%= data.Aname.Name %></title>
 </head>
@@ -28,7 +28,7 @@
 					<!-- Photo -->
 					<div class="profile-photo">
 						<div class="photo-box">
-						<img src="<%= data.imgurli %>" alt="profile photo">
+						<img src="<%= data.client %>" alt="profile photo">
 						</div>
 					</div>
 					<a style="text-decoration: none;" href="/search/<%=data._id%>"">
@@ -42,7 +42,7 @@
 					<div class="profile-info">
 						<h1><%= data.Aname.Name %></h1>
 						<h2><%= data.Aname.Mname %> <%= data.Aname.Surname %></h2>
-						<p class="mode" style="font-size: 20px;">ID NO:<%= data.RegNo %></p>
+						<p class="mode" style="font-size: 20px;">ID NO:<%= data.pine %></p>
 					</div>
 					</div>
       <!-- Details -->
@@ -60,7 +60,7 @@
 								<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
 									<h1 style="font-size:15px;text-align:center;color: black;">DATE OF BIRTH</h1>
 									<div class="profile-info" style="justify-self: center;width: 95%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;">   
-											<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Dateofbrth%></h1>
+											<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Ddateofbirth.Day%> of <%= data.Ddateofbirth.Month%>.<%= data.Ddateofbirth.Year%></h1>
 									</div>
 								</div> 
 							</div>
@@ -86,86 +86,77 @@
 									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
 										<h1 style="font-size:15px;text-align:center;color: black;">GENDER</h1>
 										<div class="profile-info" style="justify-self: center;width: 90%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;">   
-												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Sex%></h1>
+												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Gender%></h1>
 										</div>
 									</div> 
 								</div>
 							</div>
-							
+							<div class="profile-info" style="justify-self: center;width: 110%;background-color: transparent;"> 
 									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
 										<h1 style="font-size:15px;text-align:center;color: black;">LGA / STATE OF ORIGIN</h1>
 										<div class="profile-info" style="justify-self: center;width: 95%;text-align: center;margin: 0px 0px;background-color: white;display: block;margin-top: -5px;">   
-												<h1 style="margin-top:-1.5px;font-weight: bolder;margin:-5px;color:red;font-size:15px;font-weight: bolder;border: none;text-align: center;"><%= data.LocalGovt%></h1>
+												<h1 style="margin-top:-1.5px;font-weight: bolder;margin:-5px;color:red;font-size:15px;font-weight: bolder;border: none;text-align: center;"><%= data.HometownCommunity%></h1>
 												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;margin-top: -12px;"><%= data.State%></h1>
 										</div>
-									</div>								
+									</div> 
 								</div>
-                           
-							<ul class="icons-wrapper">
-  <li>
-    <img class="dropDown" src="./facebook.jpg" data-target="fb">
-  </li>
-  <li>
-    <img class="dropDown" src="./instagrame.jpg" data-target="ig">
-  </li>
-  <li>
-    <img class="dropDown" src="./tiktok.jpg" data-target="tt">
-  </li>
-  <li>
-    <img class="dropDown" src="./twitter.jpg" data-target="tw">
-  </li>
-
-  <!-- shared dropdown under the row -->
-  <ul id="dropdown" class="dropdown">
-    <li id="fb" style="background:rgb(28, 88, 158); display:none;">
-      facebook: <%=data.Facebook%>
-    </li>
-    <li id="ig" style="background:red; display:none;">
-      instagram: <%=data.Instagram%>
-    </li>
-    <li id="tt" style="background:#313131; display:none;">
-      tiktok: <%=data.Tiktok%>
-    </li>
-    <li id="tw" style="background:rgb(28, 88, 158); display:none;">
-      twitter: <%=data.Twitter%>
-    </li>
-  </ul>
-</ul>
-							  <br>
-							  <br>
-							  
-			
+								<div class="detail-row" style="margin-bottom: 5px;">
+								<div class="profile-info" style="justify-self: center;width: 110%;background-color: transparent;"> 
+									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
+										<h1 style="font-size:15px;text-align:center;color: black;">PARENT NO</h1>
+										<div class="profile-info" style="justify-self: center;width: 100%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;padding: 7px 2px;">  
+											<div style="margin-left: 0px;"class="p1">
+												<a style="margin-top:-1.5px;font-size:17px;font-weight: bolder;color: white;text-align: center;padding: 10px;text-decoration: none;"href=" tel:<%=data.ParentPhoneNo%>"><%= data.ParentPhoneNo%></a>
+												</div> 
+										</div>
+									</div> 
+								</div>
+								<div class="profile-info" style="justify-self: center;width: 110%;background-color: transparent;"> 
+									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
+										<h1 style="font-size:15px;text-align:center;color: black;">PARENT NO 2</h1>
+										<div class="profile-info" style="justify-self: center;width: 100%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;padding: 7px 2px;">  
+											<div style="margin-left: 0px;"class="p2">
+												<a style="margin-top:-1.5px;font-size:17px;font-weight: bolder;color: white;text-align: center;padding: 10px;text-decoration: none;"href=" tel:<%=data.ParentPhoneNo2%>"><%= data.ParentPhoneNo2%></a>
+												</div> 
+										</div>
+									</div> 
+								</div>
+							</div>						
+								
         
       </div>
 	
     </div>
   </div>
-  	<script>
-    const dropdown = document.getElementById("dropdown")
-const items = dropdown.querySelectorAll("li")
-let opened = null
 
-document.addEventListener("click", e => {
-  if (e.target.classList.contains("dropDown")) {
-    const target = e.target.dataset.target
+  <script>
+    let opened = null;
+    const toggleVisibility = e => e.classList.toggle('show');
 
-    // hide all
-    items.forEach(item => (item.style.display = "none"))
+    const handleDropdown = e => {
+      const clickedItem = e.parentElement.querySelector('.dropdown-menu');
+      toggleVisibility(clickedItem);
 
-    // show only clicked
-    const showItem = document.getElementById(target)
-    showItem.style.display = "inline-block"
+      if (!opened) {
+        opened = clickedItem;
+      } else if (opened === clickedItem) {
+        opened = null;
+      } else {
+        toggleVisibility(opened);
+        opened = clickedItem;
+      }
+    };
 
-    dropdown.classList.add("show")
-    opened = true
-  } else {
-    if (opened) {
-      dropdown.classList.remove("show")
-      opened = null
-    }
-  }
-})
+    const handleClick = e => {
+      if (e.target.classList.contains('dropDown')) {
+        handleDropdown(e.target);
+      } else if (opened) {
+        toggleVisibility(opened);
+        opened = null;
+      }
+    };
 
-</script>
+    document.addEventListener('click', handleClick);
+  </script>
 </body>
 </html>

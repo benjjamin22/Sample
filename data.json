@@ -1,28 +1,34 @@
 
-    [  {
+    [      {
         "Aname": {
-            "Name": "TOCHUKWU",
-            "Mname": "PASCHAL",
-            "Surname": "OGBUJI"
+            "Name": "CHINENYE",
+            "Mname": "JULIET",
+            "Surname": "EKEARU"
         },
-        "_id": "6879fbfa9f3ea849f5535d76",
+        "Ddateofbirth": {
+            "Day": "3RD",
+            "Month": "MAY,",
+            "Year": "2025"
+        },
+       "_id": "6879fbfa9f3ea849f5535d76",
+        "Status": "STUDENT",
+        "School": " OWERRI GIRLS SECONDARY SCHOOL, OWERRI ",
+        "YearofAdmin": "2025",
+        "Presentclass": "SS3",
+        "Gender": "FEMALE",
+        "Bloodgroup": "O+",
+        "ParentPhoneNo": "0808047172",
+        "ParentPhoneNo2": "-",
+        "NIN": "-",
+        "HometownCommunity": "MBAITOLI EZIAMA OBIATO",
+        "client": "image/00900.jpg",
         "State": "IMO",
-        "LocalGovt": "OGUTA",
-        "Sex": "MALE",
-        "Bloodgroup": "AA",
-        "PhoneNo": "08143507611",
-        "EmergencyNo": "07035547821",
-        "RegNo": "202441896662FA",
-        "Validity": "2024-2028",
-        "imgurlioo": "image/83909.jpg",
-        "imgurl": "https://drive.google.com/file/d/1vJV0Ojv3LK_G0NXpbnWHSbmPDx1-uYSc/view?usp=drivesdk",
-        "imgurli": "https://lh3.googleusercontent.com/d/1vJV0Ojv3LK_G0NXpbnWHSbmPDx1-uYSc=s400?authuser=0",
-        "time": "2025-07-18 07:47:06",
-        "field": "69ceacad-0d9b-410c-8b6d-45ba19f2b5a2",
-        "id": 382,
+        "pin": "0NK9YGR8TU",
+        "pine": "2918731300",
+        "id": "6879fbfa9f3ea849f5535d76",
+        "time": "2024-11-10 13:30:54",
         "__v": 0
     },
-  
     {
         "Aname": {
             "Name": "ONYEBUCHI",

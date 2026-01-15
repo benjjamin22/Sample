@@ -28,7 +28,7 @@
 					<!-- Photo -->
 					<div class="profile-photo">
 						<div class="photo-box">
-						<img src="<%= data.imgurli %>" alt="profile photo">
+						<img src="<%= data.client %>" alt="profile photo">
 						</div>
 					</div>
 					<a style="text-decoration: none;" href="/search/<%=data._id%>"">
@@ -42,7 +42,7 @@
 					<div class="profile-info">
 						<h1><%= data.Aname.Name %></h1>
 						<h2><%= data.Aname.Mname %> <%= data.Aname.Surname %></h2>
-						<p class="mode" style="font-size: 20px;">ID NO:<%= data.RegNo %></p>
+						<p class="mode" style="font-size: 20px;">ID NO:<%= data.pine %></p>
 					</div>
 					</div>
       <!-- Details -->
@@ -60,7 +60,7 @@
 								<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
 									<h1 style="font-size:15px;text-align:center;color: black;">DATE OF BIRTH</h1>
 									<div class="profile-info" style="justify-self: center;width: 95%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;">   
-											<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Dateofbrth%></h1>
+											<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Ddateofbirth.Day%> of <%= data.Ddateofbirth.Month%>.<%= data.Ddateofbirth.Year%></h1>
 									</div>
 								</div> 
 							</div>
@@ -86,7 +86,7 @@
 									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
 										<h1 style="font-size:15px;text-align:center;color: black;">GENDER</h1>
 										<div class="profile-info" style="justify-self: center;width: 90%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;">   
-												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Sex%></h1>
+												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;text-align: center;"><%= data.Gender%></h1>
 										</div>
 									</div> 
 								</div>
@@ -95,7 +95,7 @@
 									<div class="profile-bottom" style="margin-bottom:0px;justify-content: center;justify-self: center;width: 95%;">
 										<h1 style="font-size:15px;text-align:center;color: black;">LGA / STATE OF ORIGIN</h1>
 										<div class="profile-info" style="justify-self: center;width: 95%;text-align: center;margin: 0px 0px;background-color: white;display: block;margin-top: -5px;">   
-												<h1 style="margin-top:-1.5px;font-weight: bolder;margin:-5px;color:red;font-size:15px;font-weight: bolder;border: none;text-align: center;"><%= data.LocalGovt%></h1>
+												<h1 style="margin-top:-1.5px;font-weight: bolder;margin:-5px;color:red;font-size:15px;font-weight: bolder;border: none;text-align: center;"><%= data.HometownCommunity%></h1>
 												<h1 style="margin-top:-1.5px;font-size:18px;font-weight: bolder;color: black;margin-top: -12px;"><%= data.State%></h1>
 										</div>
 									</div> 
@@ -106,7 +106,7 @@
 										<h1 style="font-size:15px;text-align:center;color: black;">PARENT NO</h1>
 										<div class="profile-info" style="justify-self: center;width: 100%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;padding: 7px 2px;">  
 											<div style="margin-left: 0px;"class="p1">
-												<a style="margin-top:-1.5px;font-size:17px;font-weight: bolder;color: white;text-align: center;padding: 10px;text-decoration: none;"href=" tel:<%=data.PhoneNo%>"><%= data.PhoneNo%></a>
+												<a style="margin-top:-1.5px;font-size:17px;font-weight: bolder;color: white;text-align: center;padding: 10px;text-decoration: none;"href=" tel:<%=data.ParentPhoneNo%>"><%= data.ParentPhoneNo%></a>
 												</div> 
 										</div>
 									</div> 
@@ -116,7 +116,7 @@
 										<h1 style="font-size:15px;text-align:center;color: black;">PARENT NO 2</h1>
 										<div class="profile-info" style="justify-self: center;width: 100%;text-align: center;margin: 5px 0px;background-color: white; margin-top: -5px;padding: 7px 2px;">  
 											<div style="margin-left: 0px;"class="p2">
-												<a style="margin-top:-1.5px;font-size:17px;font-weight: bolder;color: white;text-align: center;padding: 10px;text-decoration: none;"href=" tel:<%=data.EmergencyNo%>"><%= data.EmergencyNo%></a>
+												<a style="margin-top:-1.5px;font-size:17px;font-weight: bolder;color: white;text-align: center;padding: 10px;text-decoration: none;"href=" tel:<%=data.ParentPhoneNo2%>"><%= data.ParentPhoneNo2%></a>
 												</div> 
 										</div>
 									</div> 

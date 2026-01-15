@@ -97,7 +97,7 @@ router.get('/', function(req, res, next) {
 
   router.post('/search', async (req,res) => {
     try{
-          var foundUser = accounts.find((data) => req.body.firstName.toUpperCase() === data.Aname.Name && req.body.MiddleName.toUpperCase() === data.Aname.Mname && req.body.SurName.toUpperCase() === data.Aname.Surname ||  req.body.RegNo.toUpperCase() === data.RegNo);
+          var foundUser = accounts.find((data) => req.body.firstName.toUpperCase() === data.Aname.Name && req.body.MiddleName.toUpperCase() === data.Aname.Mname && req.body.SurName.toUpperCase() === data.Aname.Surname ||  req.body.pine.toUpperCase() === data.pine);
         if (foundUser) {
         //req.session.user = foundUser.pine;
             //res.render('result',{id:foundUser.pine});
