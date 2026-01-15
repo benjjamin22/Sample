@@ -112,6 +112,7 @@ search.addEventListener('input', (e) => filterData(e.target.value));
 
 async function getData() {
     const res = await fetch(url)
+    //const limit = res.slice(0,5);
     const data= await res.json()
 
     // Clear result

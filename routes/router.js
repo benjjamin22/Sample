@@ -51,7 +51,7 @@ router.get('/', function(req, res, next) {
     console.log(data)
   });
 
-  var accountan = path.join(process.cwd(),'./schools.json')
+  var accountan = path.join(process.cwd(),'./data.json')
   var accounts = JSON.parse(fs.readFileSync(accountan,'utf-8'));
   //var accounts = JSON.parse(fs.readFileSync('./data.json','utf-8'));
   
